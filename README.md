@@ -1,2 +1,2 @@
-# Survuval Legend
+# Survival Legend
  
